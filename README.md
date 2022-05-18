@@ -1,7 +1,7 @@
 ## React + Vite Application Skeleton
 
-[React](https://reactjs.org) - A JavaScript library for building user interfaces
-[Vite](https://vitejs.dev) - Next Generation Frontend Tooling
+- [React](https://reactjs.org) - A JavaScript library for building user interfaces
+- [Vite](https://vitejs.dev) - Next Generation Frontend Tooling
 
 ## Instructions
 

@@ -1,7 +1,8 @@
 ## React + Vite Application Skeleton
 
-- [React](https://reactjs.org) - A JavaScript library for building user interfaces
-- [Vite](https://vitejs.dev) - Next Generation Frontend Tooling
+- [React](https://reactjs.org) - A JavaScript library for building user interfaces.
+- [Vite](https://vitejs.dev) - Next Generation Frontend Tooling.
+- [TypeScript](https://github.com/microsoft/TypeScript/) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## Instructions
 
